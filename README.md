@@ -17,5 +17,5 @@ $ rye sync
 ### train a model
 
 ```bash
-$ rye run train
+$ rye run train [--epoch ${epoch_num}]
 ```
