@@ -1,0 +1,80 @@
+INFO 2024-08-30 13:46:56(JST) 5116 archive.<module>: 19 epoch 1
+---------------------------
+INFO 2024-08-30 13:46:56(JST) 5116 archive.train: 40 loss: 2.297215 [   64/60000]
+INFO 2024-08-30 13:46:56(JST) 5116 archive.train: 40 loss: 2.294164 [ 6464/60000]
+INFO 2024-08-30 13:46:57(JST) 5116 archive.train: 40 loss: 2.271732 [12864/60000]
+INFO 2024-08-30 13:46:57(JST) 5116 archive.train: 40 loss: 2.268644 [19264/60000]
+INFO 2024-08-30 13:46:57(JST) 5116 archive.train: 40 loss: 2.245165 [25664/60000]
+INFO 2024-08-30 13:46:57(JST) 5116 archive.train: 40 loss: 2.213218 [32064/60000]
+INFO 2024-08-30 13:46:58(JST) 5116 archive.train: 40 loss: 2.229840 [38464/60000]
+INFO 2024-08-30 13:46:58(JST) 5116 archive.train: 40 loss: 2.199135 [44864/60000]
+INFO 2024-08-30 13:46:58(JST) 5116 archive.train: 40 loss: 2.198755 [51264/60000]
+INFO 2024-08-30 13:46:58(JST) 5116 archive.train: 40 loss: 2.153956 [57664/60000]
+INFO 2024-08-30 13:46:59(JST) 5116 archive.test: 60 test error: 
+ accuracy: 38.9% avg loss: 2.156412
+
+INFO 2024-08-30 13:46:59(JST) 5116 archive.<module>: 24 done!
+INFO 2024-08-30 13:46:59(JST) 5116 archive.<module>: 19 epoch 2
+---------------------------
+INFO 2024-08-30 13:46:59(JST) 5116 archive.train: 40 loss: 2.165209 [   64/60000]
+INFO 2024-08-30 13:46:59(JST) 5116 archive.train: 40 loss: 2.167702 [ 6464/60000]
+INFO 2024-08-30 13:46:59(JST) 5116 archive.train: 40 loss: 2.105516 [12864/60000]
+INFO 2024-08-30 13:46:59(JST) 5116 archive.train: 40 loss: 2.122703 [19264/60000]
+INFO 2024-08-30 13:47:00(JST) 5116 archive.train: 40 loss: 2.074153 [25664/60000]
+INFO 2024-08-30 13:47:00(JST) 5116 archive.train: 40 loss: 2.003087 [32064/60000]
+INFO 2024-08-30 13:47:00(JST) 5116 archive.train: 40 loss: 2.038082 [38464/60000]
+INFO 2024-08-30 13:47:00(JST) 5116 archive.train: 40 loss: 1.964388 [44864/60000]
+INFO 2024-08-30 13:47:00(JST) 5116 archive.train: 40 loss: 1.970217 [51264/60000]
+INFO 2024-08-30 13:47:01(JST) 5116 archive.train: 40 loss: 1.887393 [57664/60000]
+INFO 2024-08-30 13:47:01(JST) 5116 archive.test: 60 test error: 
+ accuracy: 56.3% avg loss: 1.892548
+
+INFO 2024-08-30 13:47:01(JST) 5116 archive.<module>: 24 done!
+INFO 2024-08-30 13:47:01(JST) 5116 archive.<module>: 19 epoch 3
+---------------------------
+INFO 2024-08-30 13:47:01(JST) 5116 archive.train: 40 loss: 1.921878 [   64/60000]
+INFO 2024-08-30 13:47:01(JST) 5116 archive.train: 40 loss: 1.905801 [ 6464/60000]
+INFO 2024-08-30 13:47:02(JST) 5116 archive.train: 40 loss: 1.782783 [12864/60000]
+INFO 2024-08-30 13:47:02(JST) 5116 archive.train: 40 loss: 1.820230 [19264/60000]
+INFO 2024-08-30 13:47:02(JST) 5116 archive.train: 40 loss: 1.722765 [25664/60000]
+INFO 2024-08-30 13:47:02(JST) 5116 archive.train: 40 loss: 1.651842 [32064/60000]
+INFO 2024-08-30 13:47:02(JST) 5116 archive.train: 40 loss: 1.679084 [38464/60000]
+INFO 2024-08-30 13:47:03(JST) 5116 archive.train: 40 loss: 1.582133 [44864/60000]
+INFO 2024-08-30 13:47:03(JST) 5116 archive.train: 40 loss: 1.605000 [51264/60000]
+INFO 2024-08-30 13:47:03(JST) 5116 archive.train: 40 loss: 1.491838 [57664/60000]
+INFO 2024-08-30 13:47:04(JST) 5116 archive.test: 60 test error: 
+ accuracy: 60.1% avg loss: 1.515374
+
+INFO 2024-08-30 13:47:04(JST) 5116 archive.<module>: 24 done!
+INFO 2024-08-30 13:47:04(JST) 5116 archive.<module>: 19 epoch 4
+---------------------------
+INFO 2024-08-30 13:47:04(JST) 5116 archive.train: 40 loss: 1.575938 [   64/60000]
+INFO 2024-08-30 13:47:04(JST) 5116 archive.train: 40 loss: 1.550207 [ 6464/60000]
+INFO 2024-08-30 13:47:04(JST) 5116 archive.train: 40 loss: 1.394272 [12864/60000]
+INFO 2024-08-30 13:47:04(JST) 5116 archive.train: 40 loss: 1.467701 [19264/60000]
+INFO 2024-08-30 13:47:04(JST) 5116 archive.train: 40 loss: 1.361218 [25664/60000]
+INFO 2024-08-30 13:47:05(JST) 5116 archive.train: 40 loss: 1.328743 [32064/60000]
+INFO 2024-08-30 13:47:05(JST) 5116 archive.train: 40 loss: 1.356086 [38464/60000]
+INFO 2024-08-30 13:47:05(JST) 5116 archive.train: 40 loss: 1.280821 [44864/60000]
+INFO 2024-08-30 13:47:05(JST) 5116 archive.train: 40 loss: 1.315601 [51264/60000]
+INFO 2024-08-30 13:47:06(JST) 5116 archive.train: 40 loss: 1.215503 [57664/60000]
+INFO 2024-08-30 13:47:06(JST) 5116 archive.test: 60 test error: 
+ accuracy: 63.5% avg loss: 1.243092
+
+INFO 2024-08-30 13:47:06(JST) 5116 archive.<module>: 24 done!
+INFO 2024-08-30 13:47:06(JST) 5116 archive.<module>: 19 epoch 5
+---------------------------
+INFO 2024-08-30 13:47:06(JST) 5116 archive.train: 40 loss: 1.312422 [   64/60000]
+INFO 2024-08-30 13:47:06(JST) 5116 archive.train: 40 loss: 1.300634 [ 6464/60000]
+INFO 2024-08-30 13:47:07(JST) 5116 archive.train: 40 loss: 1.130535 [12864/60000]
+INFO 2024-08-30 13:47:07(JST) 5116 archive.train: 40 loss: 1.241688 [19264/60000]
+INFO 2024-08-30 13:47:07(JST) 5116 archive.train: 40 loss: 1.125922 [25664/60000]
+INFO 2024-08-30 13:47:07(JST) 5116 archive.train: 40 loss: 1.124834 [32064/60000]
+INFO 2024-08-30 13:47:07(JST) 5116 archive.train: 40 loss: 1.163137 [38464/60000]
+INFO 2024-08-30 13:47:08(JST) 5116 archive.train: 40 loss: 1.100974 [44864/60000]
+INFO 2024-08-30 13:47:08(JST) 5116 archive.train: 40 loss: 1.139507 [51264/60000]
+INFO 2024-08-30 13:47:08(JST) 5116 archive.train: 40 loss: 1.059693 [57664/60000]
+INFO 2024-08-30 13:47:08(JST) 5116 archive.test: 60 test error: 
+ accuracy: 64.6% avg loss: 1.078169
+
+INFO 2024-08-30 13:47:08(JST) 5116 archive.<module>: 24 done!
